@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MitihaniApp</string>
+    <string name="karibuni">KARIBUNI</string>
+    <string name="haba_na_haba_hujaza_kibaba">Haba na haba hujaza kibaba</string>
+    <string name="step_by_step_fills_the_measure">\'Step by step fills the measure\'</string>
+    <string name="kiswahili">Kiswahili</string>
+    <string name="kiswahili_pic">Kiswahili pic</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hujambo_dunia">Hujambo Dunia</string>
+    <string name="mtihani_wa_kwanza">Mtihani wa Kwanza</string>
+    <string name="pili">Pili</string>
+    <string name="tatu">Tatu</string>
+</resources>
